@@ -1,0 +1,25 @@
+.frame {
+  text-align: center;
+
+}
+
+table {
+  color: brown;
+  background-color: orange !important;
+}
+
+.navbar navbar-light bg-light {
+  color: orange;
+}
+
+body {
+  background-color: silver;
+}
+
+/*
+.btn-info.active {
+  color: #fff;
+  background-color: navy;
+  border-color: #17a2b8;
+}
+*/
