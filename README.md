@@ -1,5 +1,5 @@
 # QuoteGenerator
-Project 5 by Frontend Path by Openclassrooms.com - quote generator
+quote generator
 
 Technologies: Vanilla Javascript, HTML5, CSS3
 
